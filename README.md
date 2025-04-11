@@ -1,16 +1,16 @@
 
 # Data Scientist
 
-Welcome to my GitHub portfolio! This repository showcases my journey as a data scientist and operations research analyst with a strong foundation in physics, mathematics, and machine learning. Below, you'll find an overview of my work, skills, and experiences.
+Welcome to my GitHub portfolio! This portfolio showcases my journey as a data scientist with a strong foundation in physics, mathematics, and machine learning. Below, you'll find an overview of my work, skills, and experiences.
 
 ## About Me
 
-Hi, I'm [Vahidin Jupic], a disciplined professional with nine years of experience in data science and operations research. I specialize in transforming disparate datasets into actionable insights, enabling strategic decision-making and fostering continuous improvement. My expertise spans data analysis, cost optimization, and advanced modeling, with a proven track record of delivering impactful results.
+I am a disciplined professional with nine years of experience in data science and operations research. I specialize in transforming disparate datasets into actionable insights, enabling strategic decision-making and fostering continuous improvement. My expertise spans data analysis, cost optimization, and advanced modeling, with a proven track record of delivering impactful results.
 
 - 🌟 **Specialties**: Data Science, Operations Research, Financial/Business Analysis
 - 🎓 **Education**: MS in Physics, BS in Criminal Justice
 - 📜 **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
-- 📫 **Contact**: [Your Email or LinkedIn Profile]
+- 📫 **Contact**: (!https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 - 🌐 **Website**: [Your Personal Website or Portfolio Link]
 
 ## Projects
