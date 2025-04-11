@@ -1,6 +1,13 @@
 title: Vahidin Jupic
 logo: /assets/images/image1.png
-description: text bellow image
+description: "Data Scientist with expertise in machine learning, data analysis, and operations research. Passionate about transforming data into actionable insights."
+
+highlights:
+  - "Earned the Achievement Medal for Civilian Service for improving data verification processes."
+  - "Saved $31M in long-term costs by identifying alternative systems."
+  - "Conducted cost-benefit analyses impacting billions in lifecycle costs for the Stryker combat system."
+  - "Boosted departmental efficiency by ~10% through advanced Excel training and workflow improvements."
+  - "Secured cost recovery on over $200M in parts through cross-agency collaboration."
 
 show_downloads: false
 theme: jekyll-theme-minimal
