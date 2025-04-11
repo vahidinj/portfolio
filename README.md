@@ -13,7 +13,7 @@ I am a disciplined professional with nine years of experience in data science an
     - [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
     - [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
 - **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
-- **Contact**:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
+- **Contact**:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 
 ## Personal Projects
 
@@ -57,11 +57,9 @@ I am a disciplined professional with nine years of experience in data science an
 
 ## Career Highlights
 
-- **Data Science/Analysis**: Created detailed cost estimates from big data, aiding successful bids for a $1.5 billion government contract.  
+- **Data Science/Analysis**: Created detailed cost estimates from disparate data, aiding successful bids for a $1.5 billion government contract.  
 - **Cost Optimization**: Identified potential savings of $276.9M (78%) by modeling and evaluating alternative courses of action.  
 - **Research and Modeling**: Conducted novel research in physics by applying advanced mathematical modeling and Python simulations.  
-
-
 
 ## Get in Touch
 
