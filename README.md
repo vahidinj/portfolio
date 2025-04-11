@@ -5,36 +5,42 @@ Welcome to my GitHub portfolio! This portfolio showcases my journey as a data sc
 
 ## About Me
 
-I am a disciplined professional with nine years of experience in data science and operations research. I specialize in transforming disparate datasets into actionable insights, enabling strategic decision-making and fostering continuous improvement. My expertise spans data analysis, cost optimization, and advanced modeling, with a proven track record of delivering impactful results.
+I am a disciplined professional with nine years of experience in data science and operations research. I specialize in transforming disparate data into actionable insights, enabling strategic decision-making and fostering continuous improvement. My expertise spans data analysis, cost optimization, and advanced modeling, with a proven track record of delivering impactful results.
 
-- 🌟 **Specialties**: Data Science, Operations Research, Financial/Business Analysis
-- 🎓 **Education**: BS in Criminal Justice, MS in Physics 
-- 📄**Publications**:
+- **Specialties**: Data Science, Operations Research, Financial/Business Analysis
+- **Education**: BS in Criminal Justice, MS in Physics 
+- **Publications**:
     - [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
     - [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
-- 📜 **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
-- 📫 **Contact**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
+- **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
+- **Contact**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 
 ## Work Experiences
 
-## Projects
+### **Data Validation & Quality Assurance**  
+- Designed and implemented data verification and validation processes for contract deliverables, improving accuracy and reliability.  
+- Developed tools for analyzing reports, supporting manufacturing cost estimates for 80% of procurement-funded elements, earning the **Achievement Medal for Civilian Service**.
 
-Here are some highlights of my work:
+### **Cost Reduction & Efficiency**  
+- Determined that switching to an alternative system would save 18% in long-term costs (~$31M) and reduce average annual operating costs by 19%.
 
-1. **Cost Optimization Model**  
-   - **Description**: Developed a model that identified potential savings of $276.9M (78%) by evaluating alternative courses of action.  
-   - **Technologies**: Python, Pandas, NumPy, Scikit Learn  
-   - **Link**: [GitHub repository or live demo link]
+### **Data-Driven Analysis & Strategic Planning**  
+- Developed cost estimates for billion-dollar contracts, informing source selection and acquisition planning.  
+- Conducted cost-benefit and break-even analyses impacting billions in lifecycle costs for the **Stryker combat system**, directly influencing strategic decision-making by Army leadership.
 
-2. **Data Validation & Quality Assurance Tools**  
-   - **Description**: Designed tools for analyzing reports and validating data, improving accuracy and reliability for contract deliverables.  
-   - **Technologies**: Python, Data Visualization, SQL  
-   - **Link**: [GitHub repository or live demo link]
+### **Budgetary Forecasting & Resource Management**  
+- Analyzed large datasets to develop and validate cost estimates and budget forecasts for multi-million-dollar Army programs.  
+- Created tools for analyzing spend plans and visualizing program impacts for congressional review.  
+- Managed budget inputs and assessed impacts across fiscal years, identifying and recommending data-driven corrective actions for deficient program areas.
 
-3. **Budgetary Forecasting System**  
-   - **Description**: Analyzed large datasets to develop and validate cost estimates and budget forecasts for multi-million-dollar Army programs.  
-   - **Technologies**: Python, Data Wrangling, Statistical Analysis  
-   - **Link**: [GitHub repository or live demo link]
+### **Process Improvement & Team Leadership**  
+- Served as interim team lead and mentor to junior staff, creating and presenting an advanced Excel class that boosted departmental efficiency and analytical speed by ~10%.  
+- Developed and utilized advanced analytical tools for data validation, visualization, and model building to improve workflow.
+
+### **Cross-Functional Collaboration & Stakeholder Engagement**  
+- Partnered with program managers to implement data-driven modernization efforts.  
+- Coordinated with multiple agencies to establish the Supply Chain's critical surcharge, resulting in a 24% adjustment in part costs to ensure cost recovery on over $200M in parts.  
+- Supported source selection and acquisition planning, securing project approvals from senior leadership and earning team awards for three consecutive years.
 
 ## Skills
 
