@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Pysics, MS
+Pysics, MS /n
 Criminal Justice, BS
 
 ### Work Experience
