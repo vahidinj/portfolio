@@ -13,14 +13,13 @@ I am a disciplined professional with nine years of experience in data science an
     - [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
     - [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
 - **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
-- **Contact**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
+- **Contact**:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 
 ## Personal Projects
 
-- **Diabetes Precidtion App:** [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
-- This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
-- Click here to see the app in action
-
+- **Diabetes Prediction App:** [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
+    - This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
+    - Click here to see the app in action
 
 ## Work Experiences
 
