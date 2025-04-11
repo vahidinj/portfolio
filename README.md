@@ -17,9 +17,9 @@ I am a disciplined professional with nine years of experience in data science an
 
 ## Personal Projects
 
-- **Diabetes Precidtion App:** [diabetes_prediction_app](https://github.com/vahidinj/diabetes_prediction_app)
-This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
-Click here to see the app in action
+- **Diabetes Precidtion App:** [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
+- This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
+- Click here to see the app in action
 
 
 ## Work Experiences
