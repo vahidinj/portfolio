@@ -9,12 +9,9 @@ I am a disciplined professional with nine years of experience in data science an
 
 - 🌟 **Specialties**: Data Science, Operations Research, Financial/Business Analysis
 - 🎓 **Education**: BS in Criminal Justice, MS in Physics 
-
-## Publications
-
-- [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
-- [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
-
+- 📄**Publications**:
+    - [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
+    - [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
 - 📜 **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
 - 📫 **Contact**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 
