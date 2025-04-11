@@ -7,13 +7,20 @@ Welcome to my GitHub portfolio! This portfolio showcases my journey as a data sc
 
 I am a disciplined professional with nine years of experience in data science and operations research. I specialize in transforming disparate data into actionable insights, enabling strategic decision-making and fostering continuous improvement. My expertise spans data analysis, cost optimization, and advanced modeling, with a proven track record of delivering impactful results.
 
-- **Specialties**: Data Science, Operations Research, Financial/Business Analysis
+- **Specialties**: Data Science, Operations Research, Business Inteligence
 - **Education**: BS in Criminal Justice, MS in Physics 
 - **Publications**:
     - [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
     - [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
 - **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
 - **Contact**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
+
+## Personal Projects
+
+- **Diabetes Precidtion App:** [diabetes_prediction_app](https://github.com/vahidinj/diabetes_prediction_app)
+This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
+Click here to see the app in action
+
 
 ## Work Experiences
 
@@ -46,8 +53,8 @@ I am a disciplined professional with nine years of experience in data science an
 
 - **Programming Languages**: Python, SQL  
 - **Frameworks & Libraries**: Pandas, NumPy, Scikit Learn, TensorFlow  
-- **Tools & Platforms**: Data Visualization, Machine Learning, Deep Learning  
-- **Other Expertise**: Statistical Analysis, Data Modeling, Applied Mathematics  
+- **Tools & Platforms**: Excel, Data Visualization, Machine Learning, Deep Learning  
+- **Other Expertise**: Statistical Analysis, Data Modeling, Applied Mathematics, Physics
 
 ## Career Highlights
 
