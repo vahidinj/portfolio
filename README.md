@@ -8,10 +8,17 @@ Welcome to my GitHub portfolio! This portfolio showcases my journey as a data sc
 I am a disciplined professional with nine years of experience in data science and operations research. I specialize in transforming disparate datasets into actionable insights, enabling strategic decision-making and fostering continuous improvement. My expertise spans data analysis, cost optimization, and advanced modeling, with a proven track record of delivering impactful results.
 
 - 🌟 **Specialties**: Data Science, Operations Research, Financial/Business Analysis
-- 🎓 **Education**: MS in Physics, BS in Criminal Justice
+- 🎓 **Education**: BS in Criminal Justice, MS in Physics 
+
+## Publications
+
+- [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
+- [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
+
 - 📜 **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
-- 📫 **Contact**: (!https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
-- 🌐 **Website**: [Your Personal Website or Portfolio Link]
+- 📫 **Contact**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
+
+## Work Experiences
 
 ## Projects
 
@@ -45,16 +52,7 @@ Here are some highlights of my work:
 - **Cost Optimization**: Identified potential savings of $276.9M (78%) by modeling and evaluating alternative courses of action.  
 - **Research and Modeling**: Conducted novel research in physics by applying advanced mathematical modeling and Python simulations.  
 
-## Publications
 
-- *Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*  
-- *Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*  
-
-## Certifications
-
-- **IBM Data Science Professional** (Mar 2025)  
-- **Python for Data Science and Machine Learning** (Dec 2024)  
-- **Python Data Analysis: NumPy & Pandas** (Dec 2024)  
 
 ## Get in Touch
 
