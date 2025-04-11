@@ -1,6 +1,6 @@
 title: Vahidin Jupic
-
-
+# logo: /img/headshot.png
+description: text bellow image
 
 show_downloads: true
 theme: jekyll-theme-minimal
