@@ -16,7 +16,7 @@ I am a disciplined professional with nine years of experience in data science an
 
 ## Personal Projects
 
-**Diabetes Prediction App:** [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
+### Diabetes Prediction App: [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
 
 This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
 
@@ -31,14 +31,14 @@ This is a Streamlit-based web application designed to predict the likelihood of 
 - A Dockerfile to define the application environment.
 - A docker-compose.yml file (optional) for managing multi-container setups.
 
-### To build and run the app locally using Docker:
+#### To build and run the app locally using Docker:
 - Build the Docker image
     - docker build -t diabetes-prediction-app .
 
-### Run the Docker container
+#### Run the Docker container
 - docker run -p 8501:8501 diabetes-prediction-app
 
-### Deployment to AWS EC2:
+#### Deployment to AWS EC2:
 - The app can be deployed to an AWS EC2 instance for production use. Below are the high-level steps:
 
 1. Launch an EC2 Instance:
@@ -62,7 +62,7 @@ This is a Streamlit-based web application designed to predict the likelihood of 
    - Open a browser and navigate to http://<EC2-Public-IP>:8501.
 
 This setup ensures the app is portable, scalable, and easy to deploy in a cloud environment.
-- **[Click here](https://vahidinj-diabetes-prediction-app-srcapp-fzptez.streamlit.app)** to see the app in action
+#### [Click here](https://vahidinj-diabetes-prediction-app-srcapp-fzptez.streamlit.app) to see the app in action
 
 ## Work Experiences
 
