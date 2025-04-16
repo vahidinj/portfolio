@@ -16,9 +16,53 @@ I am a disciplined professional with nine years of experience in data science an
 
 ## Personal Projects
 
-- **Diabetes Prediction App:** [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
-    - This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
-    - [Click here](https://vahidinj-diabetes-prediction-app-srcapp-fzptez.streamlit.app) to see the app in action
+**Diabetes Prediction App:** [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
+
+This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
+
+**Key Features:**
+- User-friendly Interface: Built with Streamlit for seamless interaction.
+- Data Exploration: Visualize and analyze diagnostic data.
+- Model Evaluation: Assess the performance of predictive models.
+- Interactive Visualizations: Gain insights into the dataset and predictions.
+
+**Docker Integration:**
+- This app is containerized using Docker, ensuring consistent performance across different environments. The Docker setup includes:
+- A Dockerfile to define the application environment.
+- A docker-compose.yml file (optional) for managing multi-container setups.
+
+### To build and run the app locally using Docker:
+- Build the Docker image
+    - docker build -t diabetes-prediction-app .
+
+### Run the Docker container
+- docker run -p 8501:8501 diabetes-prediction-app
+
+### Deployment to AWS EC2:
+- The app can be deployed to an AWS EC2 instance for production use. Below are the high-level steps:
+
+1. Launch an EC2 Instance:
+   - Choose an Amazon Linux or Ubuntu AMI.
+   - Configure security groups to allow inbound traffic on port 8501 (Streamlit default).
+
+2. Install Docker on EC2:
+   - SSH into the instance and install Docker:
+     sudo apt update
+     sudo apt install docker.io -y
+
+3. Transfer the Application Code:
+   - Use scp or a Git repository to transfer the app's code to the EC2 instance.
+
+4. Build and Run the Docker Container:
+   - Build the Docker image and run the container:
+     docker build -t diabetes-prediction-app .
+     docker run -p 8501:8501 diabetes-prediction-app
+
+5. Access the App:
+   - Open a browser and navigate to http://<EC2-Public-IP>:8501.
+
+This setup ensures the app is portable, scalable, and easy to deploy in a cloud environment.
+- **[Click here](https://vahidinj-diabetes-prediction-app-srcapp-fzptez.streamlit.app)** to see the app in action
 
 ## Work Experiences
 
