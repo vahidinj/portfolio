@@ -14,7 +14,7 @@ I am a disciplined professional with nine years of experience in data science an
 - **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
 - **Contact**:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 
-## Personal Projects
+## Personal/Working Projects
 
 ### Diabetes Prediction App: [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
 
@@ -27,7 +27,6 @@ This is a Streamlit-based web application designed to predict the likelihood of 
 - Interactive Visualizations: Gain insights into the dataset and predictions.
 - Batch Predictions: Make batch predictions by uploading a CSV and downloading the results.
 
-This setup ensures the app is portable, scalable, and easy to deploy in a cloud environment.
 #### [Click here](https://vahidinj-diabetes-prediction-app-srcapp-fzptez.streamlit.app) to see the app in action
 
 ## Work Experiences
