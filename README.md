@@ -7,11 +7,12 @@ Welcome to my GitHub portfolio! This portfolio showcases my journey as a data sc
 I am a disciplined professional with nine years of experience in data science and operations research. I specialize in transforming disparate data into actionable insights, enabling strategic decision-making and fostering continuous improvement. My expertise spans data analysis, cost optimization, and advanced modeling, with a proven track record of delivering impactful results.
 
 - **Specialties**: Data Science, Operations Research, Business Inteligence
-- **Education**: BS in Criminal Justice, MS in Physics 
+- **Education**: BS in Criminal Justice, MS in Physics
+- **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
 - **Publications**:
     - [*Probing Early-time Longitudinal Dynamics with the Λ Hyperon's Spin Polarization in Relativistic Heavy-ion Collisions*](https://arxiv.org/abs/2106.08125v3)
     - [*Orbital Angular Momentum and Fluid Vorticity in Relativistic Heavy Ion Collisions*](https://digitalcommons.wayne.edu/oa_theses/785/)
-- **Certifications**: IBM Data Science Professional, Python for Data Science and Machine Learning
+
 - **Contact**:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 
 ## Personal/Working Projects
@@ -48,7 +49,7 @@ Hired as a part-time mathematics tutor while enrolled at Michigan’s third-larg
 - **Individualized Instruction**: Leveraged deep understanding of mathematical concepts to tailor tutoring sessions to individual student needs and learning styles, facilitating effective problem-solving and comprehension.
 - **Professional Development**: Participated in weekly mathematics seminars to expand knowledge and expertise in advanced mathematical fields and concepts.
 
-### **United States Marine, United States Marines**
+### **United States Marine, United States Marine Corps**
 Inspired by childhood experiences as a war refugee and recipient of American aid, I enlisted in the Marine Corps during a time of war to serve the nation that offered me a second chance.
 
 
