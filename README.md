@@ -1,6 +1,6 @@
 # Data Scientist
 
-Welcome to my GitHub portfolio! This portfolio showcases my journey as a data scientist with a strong foundation in physics, mathematics, and machine learning. Below, you'll find an overview of my work, skills, and experiences.
+Welcome to my portfolio where I showcases my journey as a data scientist with a strong foundation in physics, mathematics, and machine learning. Below, you'll find an overview of my work, skills, and experiences.
 
 ## About Me
 
@@ -19,14 +19,14 @@ I am a disciplined professional with nine years of experience in data science an
 
 ### Diabetes Prediction App: [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
 
-This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the dataset and model performance.
+This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the training dataset and model performance.
 
 **Key Features:**
 - User-friendly Interface: Built with Streamlit for seamless interaction.
 - Data Exploration: Visualize and analyze diagnostic data.
 - Model Evaluation: Assess the performance of predictive models.
 - Interactive Visualizations: Gain insights into the dataset and predictions.
-- Batch Predictions: Make batch predictions by uploading a CSV and downloading the results.
+- Batch Predictions: Make batch predictions by uploading a CSV file and downloading the results.
 
 #### [Click here](https://vahidinj-diabetes-prediction-app-srcapp-fzptez.streamlit.app) to see the app in action
 
