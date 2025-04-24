@@ -28,7 +28,7 @@ This is a Streamlit-based web application designed to predict the likelihood of 
 - Interactive Visualizations: Gain insights into the dataset and predictions.
 - Batch Predictions: Make batch predictions by uploading a CSV file and downloading the results.
 
-#### [Click here](https://vahidinj-diabetes-prediction-app-srcapp-fzptez.streamlit.app) to see the app in action
+#### [Click here](http://18.116.52.26:8501) to see the app in action
 
 ## Work Experiences
 
