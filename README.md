@@ -17,6 +17,22 @@ I am a disciplined professional with nine years of experience in data science an
 
 ## Personal/Working Projects
 
+**Neural Network Studio App:** [Launch the app](https://vahidinj.streamlit.app)
+    - Build and train artificial neural networks with an intuitive Streamlit GUI. Easily upload and explore your data, fine-tune model parameters, and visualize both your data and model performance—all in one streamlined app.
+
+    **Features:**
+    - **Data Upload:** Easily upload your CSV dataset for analysis.
+    - **Data Cleaning & Preprocessing:** (Coming soon) Handle missing values, remove duplicates, and prepare your data for modeling.
+    - **Data Exploration & Visualization:** View summary statistics, missing values, and correlation matrices. Generate interactive charts: area, box, histogram, scatter, heatmap, and pie.
+    - **Build Artificial-Neural-Network:** Configure, train, and evaluate an ANN model on your data. Adjust hyperparameters and monitor training progress. Upload new (unseen) data to make predictions with your trained model. Download prediction results as a CSV file.
+    - **About:** Learn what each page does and how to use the app.
+
+    <p align="center">
+      <img src="assets/images/created_ANN.png" alt="Example Neural Network Visualization" width="500"/>
+      <br>
+      <em>Example: Visualizing a generated neural network with the app.</em>
+    </p>
+
 ### Diabetes Prediction App: [GitHub Repository Link](https://github.com/vahidinj/diabetes_prediction_app)
 
 This is a Streamlit-based web application designed to predict the likelihood of diabetes in individuals based on diagnostic measurements. The app includes features for data exploration, model evaluation, and interactive visualizations to help users better understand the training dataset and model performance.
