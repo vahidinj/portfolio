@@ -15,7 +15,7 @@ I am a disciplined professional with nine years of experience in data science an
 
 - **Contact**:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidin-jupic-0947b534b/)
 
-## Personal/Working Projects
+## Working Projects
 
 ### Neural Network Studio App: [GitHub Repository Link](https://github.com/vahidinj/ANN_builder_app)
 - Build and train artificial neural networks with an intuitive Streamlit GUI. Easily upload and explore your data, fine-tune model parameters, and visualize both your data and model performance—all in one streamlined app.
